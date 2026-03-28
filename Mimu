@@ -239,12 +239,12 @@ ByLabel.BackgroundTransparency = 1
 ByLabel.Position = UDim2.new(0, 0, 0, 82)
 ByLabel.Size = UDim2.new(1, 0, 0, 22)
 ByLabel.Font = Enum.Font.SourceSansItalic
-ByLabel.Text = "by Fenzoxy"
+ByLabel.Text = "Created by Fenzoxy and a continuation of Xavier"
 ByLabel.TextColor3 = Color3.fromRGB(180, 180, 180)
 ByLabel.TextSize = 13
 
-local DISCORD_LINK = "https://discord.gg/YOURLINK"
-local YOUTUBE_LINK = "https://youtube.com/@YOURLINK"
+local DISCORD_LINK = "https://discord.gg/bZyMGmjqUe"
+local YOUTUBE_LINK = "https://www.youtube.com/@Fenzoxy"
 
 local function copyEffect(btn, originalText)
     btn.Text = "Copied!"
